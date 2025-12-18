@@ -29,15 +29,14 @@ interests:
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Programming Languages
+      institution: Texas A&M-SA
+    - course: Big Data Analysis and Security
+      institution: Texas A&M-SA
+    - course: Computer Forensics
+      institution: Texas A&M-SA
+    - course: Information Security
+      institution: Texas A&M-SA
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
