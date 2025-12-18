@@ -1,29 +1,31 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Dr. Md Tamjid Hossain
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Md Tamjid
+last_name: Hossain
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Director, CiPH3R-Lab and Assistant Professor of Computer Science and Cybersecurity, A&M-SA
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
-    url: ''
+  - name: Texas A&M University-San Antonio
+    url: 'https://www.tamusa.edu/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am an Assistant Professor at Texas A&M University–San Antonio and the Director of CiPH3R-Lab. My research focuses on cybersecurity and data privacy for critical infrastructure, trustworthy AI/ML, adversarial learning, privacy-preserving learning (e.g., federated learning and differential privacy), and practical cyber red teaming.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Data Privacy and security of Critical Infrastructures
+  - Adversarial AI/ML
+  - Privacy-preserving learning
+  - Multi-agent robotic systems security
+  - Agentic AI Security
 
 education:
   courses:

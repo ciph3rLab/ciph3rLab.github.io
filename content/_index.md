@@ -8,18 +8,20 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
-      image:
-        filename: welcome.jpg
+        CiPH3R-Lab
       text: |
         <br>
-        
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+
+        **CiPH3R-Lab** advances cybersecurity, data privacy, and trustworthy AI for critical infrastructure —
+        spanning adversarial learning, privacy-preserving systems (FL/DP), and practical cyber red teaming.
+
+        <br>
+        **Texas A&M University–San Antonio**
+
   
   - block: collection
     content:
-      title: Latest News
+      title: Lab Updates
       subtitle:
       text:
       count: 5
@@ -68,6 +70,19 @@ sections:
     design:
       view: citation
       columns: '1'
+
+  - block: collection
+    content:
+      title: Active Projects
+      subtitle: "Ongoing research in CiPH3R-Lab"
+      text: ""
+      count: 12
+      filters:
+        folders:
+          - project
+    design:
+      view: card
+      columns: '2'
 
   - block: markdown
     content:

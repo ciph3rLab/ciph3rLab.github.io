@@ -16,9 +16,11 @@ appearance:
 marketing:
   seo:
     site_type: Organization
-    local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
+    local_business_type: 'Education'
+    org_name: 'Texas A&M University-San Antonio'
+    description: 'CiPH3R-Lab focuses on cybersecurity, data privacy, and trustworthy AI for
+  critical infrastructure, adversarial learning, red teaming, and
+  privacy-preserving systems.'
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
@@ -45,7 +47,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} CiPH3R-Lab · Md Tamjid Hossain, CISSP, PhD · Texas A&M University–San Antonio'
     license:
       enable: true
       allow_derivatives: false
