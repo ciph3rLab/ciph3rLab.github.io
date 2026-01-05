@@ -4,7 +4,6 @@ collection: publications
 category: manuscripts
 permalink: /publication/2025-01-01-cradle-uav-wildfire
 excerpt: "UAV networking for wildfire-front monitoring with cooperative, adaptive, decentralized learning and execution."
-date: 2025-01-01
 venue: "IEEE CASE 2025"
 paperurl: ""
 slidesurl: ""
