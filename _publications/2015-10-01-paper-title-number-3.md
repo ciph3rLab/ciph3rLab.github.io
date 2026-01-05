@@ -1,14 +1,10 @@
 ---
-title: "Paper Title Number 3"
+title: "RAMPART: Reinforcing Autonomous Multi-Agent Protection through Adversarial Resistance in Transportation"
 collection: publications
 category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/2024-01-01-rampart-transportation
+excerpt: "Adversarially robust multi-agent protection for autonomous transportation systems."
+venue: "ACM Journal of Autonomous Transportation Systems"
+paperurl: "https://dl.acm.org/doi/10.1145/3643137"
+citation: "M. T. Hossain, et al., “RAMPART: Reinforcing Autonomous Multi-Agent Protection through Adversarial Resistance in Transportation,” ACM Journal of Autonomous Transportation Systems, 2024. https://doi.org/10.1145/3643137"
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
