@@ -58,6 +58,6 @@ Please contact us via email with a short description of the proposed collaborati
 
 ## Links
 
-- [Google Scholar](https://scholar.google.com/)
+- [Google Scholar](https://scholar.google.com/citations?user=-u4v8QEAAAAJ&hl=en)
 - [GitHub](https://github.com/ciph3rLab)
 
