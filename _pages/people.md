@@ -17,4 +17,4 @@ author_profile: false
 
 ## Alumni
 
-- (Add alumni here)
+- 
