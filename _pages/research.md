@@ -38,7 +38,7 @@ A trustworthy neurocognitive decision-support framework for multi-agent critical
 - Dual-process architecture (fast heuristic System-I + slow analytic System-II)
 - Goal: authentic, accurate, secure, reliable, timely (AASRT) information exchange and adaptive resilience
 
-![Zen-AI architecture overview](/images/projects/zen-ai-architecture.svg)
+![Zen-AI architecture overview](/images/projects/zen-ai-architecture.jpg)
 *Figure: Zen-AI Architecture Overview*
 
 ### RAG-powered Cyber Red Teaming with Human-in-the-Loop (HiL) (Ongoing)
@@ -47,7 +47,7 @@ RAG-based agentic LLM approach to emulate attacker workflows safely:
 - Operates in sandboxed environments with HiL oversight
 - Goal: quantify how agentic AI accelerates adversary workflows and derive defense-in-depth mitigations
 
-![RAG-powered red teaming workflow](/images/projects/rag-redteam-pipeline.png)
+![RAG-powered red teaming workflow](/images/projects/rag-redteam-pipeline.jpg)
 *Figure: RAG-powered agentic red teaming pipeline with human-in-the-loop oversight.*
 
 ### PRISM: Policy-Regulated Investigative Segmentation for Ethical Digital Forensics (Ongoing)
