@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "CiPH3R-Lab"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Md Tamjid Hossain"
 description              : &description "Cybersecurity, Privacy, and Trustworthy AI Research Lab"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://ciph3rlab.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -36,43 +36,6 @@ author:
   academia         : # https://apps.tamusa.edu/course-information/my-profile/faculty-Profile.php?ID=1081
   googlescholar    : "https://scholar.google.com/citations?user=-u4v8QEAAAAJ&hl=en"
   orcid id         : "https://orcid.org/my-orcid?orcid=0000-0002-5674-7918"
-
-
-
-  # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
-  codepen          : # Username
-  dribbble         : # Username
-  github           : "academicpages"
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
-
-  # Social media
-  artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
-  flickr           : # Username
-  foursquare       : # Username
-  goodreads        : # Username
-  google_plus      : # Username
-  keybase          : # Username
-  instagram        : # Username
-  lastfm           : # Username
-  linkedin         : # Username
-  mastodon         : # URL
-  medium           : # URL
-  pinterest        : # Username
-  soundcloud       : # Username
-  steam            : # Username
-  telegram         : # URL
-  tumblr           : # Username
-  twitter          : # Username for X / Twitter
-  vine             : # Username
-  weibo            : # Username
-  wikipedia        : # Username
-  xing             : # Username
-  youtube          : # Username
-  zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
