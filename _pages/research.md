@@ -10,12 +10,9 @@ CiPH3R-Lab focuses on **secure and trustworthy cybersecurity and AI/ML applicati
 
 ## Core Research Thrusts
 
-![Cyber physical critical infrastructure security](/images/projects/cpci-security.jpg)
-
-*Figure: Cyber physical critical infrastructure security*
-
-<img src="/images/projects/zen-ai-architecture.jpg"
-     alt="Zen-AI architecture overview"
+<img src="/images/projects/cpci-security.jpg"
+     alt="Cyber physical critical infrastructure security"
+     caption="Figure: Cyber physical critical infrastructure security"
      style="max-width:600px; display:block; margin: 1rem auto;">
 
 
