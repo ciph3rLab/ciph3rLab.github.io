@@ -15,7 +15,7 @@ CiPH3R-Lab focuses on **secure and trustworthy cybersecurity and AI/ML applicati
        alt="Cyber physical critical infrastructure security"
        style="width:100%;">
 
-  <figcaption style="font-size:0.9em; color:#aaa; margin-top:0.5rem;">
+  <figcaption style="font-size:0.9em; color:#fff; margin-top:0.5rem;">
     <strong>Figure: </strong> Cyber physical critical infrastructure security
   </figcaption>
 </figure>
@@ -50,9 +50,16 @@ A trustworthy neurocognitive decision-support framework for multi-agent critical
 - Dual-process architecture (fast heuristic System-I + slow analytic System-II)
 - Goal: authentic, accurate, secure, reliable, timely (AASRT) information exchange and adaptive resilience
 
-![Zen-AI architecture overview](/images/projects/zen-ai-architecture.jpg)
+<figure style="max-width:600px; margin: 1.5rem auto; text-align:center;">
+  <img src="/images/projects/zen-ai-architecture.jpg"
+       alt="Zen-AI architecture overview"
+       style="width:100%;">
 
-*Figure: Zen-AI Architecture Overview*
+  <figcaption style="font-size:0.9em; color:#fff; margin-top:0.5rem;">
+    <strong>Figure: </strong> Zen-AI dual-process (System-I / System-II) neurocognitive architecture for
+    agentic decision-making in critical infrastructures.
+  </figcaption>
+</figure>
 
 ### Project-2 *RAG-powered Cyber Red Teaming with Human-in-the-Loop (HiL)*
 RAG-based agentic LLM approach to emulate attacker workflows safely:
@@ -60,18 +67,30 @@ RAG-based agentic LLM approach to emulate attacker workflows safely:
 - Operates in sandboxed environments with HiL oversight
 - Goal: quantify how agentic AI accelerates adversary workflows and derive defense-in-depth mitigations
 
-![RAG-powered red teaming workflow](/images/projects/rag-redteam-pipeline.jpg)
+<figure style="max-width:600px; margin: 1.5rem auto; text-align:center;">
+  <img src="/images/projects/rag-redteam-pipeline.jpg"
+       alt="RAG-powered red teaming workflow"
+       style="width:100%;">
 
-*Figure: RAG-powered agentic red teaming pipeline with human-in-the-loop oversight.*
+  <figcaption style="font-size:0.9em; color:#fff; margin-top:0.5rem;">
+    <strong>Figure: </strong> RAG-powered agentic red teaming pipeline with human-in-the-loop oversight.
+  </figcaption>
+</figure>
 
 ### Project-3: *PRISM: Policy-Regulated Investigative Segmentation for Ethical Digital Forensics*
 Ethics-first agentic AI to triage large evidence sets (disks, memory dumps, logs, PCAP, mobile images):
 - Contextualizes case narratives and groups/tags artifacts as case-related vs unrelated
 - Goal: reduce unintentional/unethical data exposure while preserving investigator speed
 
-![PRISM forensics triage flow](/images/projects/prism-forensics-flow.jpg)
+<figure style="max-width:600px; margin: 1.5rem auto; text-align:center;">
+  <img src="/images/projects/prism-forensics-flow.jpg"
+       alt="PRISM forensics triage flow"
+       style="width:100%;">
 
-*Figure: PRISM forensics triage flow.*
+  <figcaption style="font-size:0.9em; color:#fff; margin-top:0.5rem;">
+    <strong>Figure: </strong> PRISM forensics triage flow.
+  </figcaption>
+</figure>
 
 ---
 
