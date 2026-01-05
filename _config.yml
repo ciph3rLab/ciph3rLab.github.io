@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "He/Him/His"  
   bio              : "Md Tamjid Hossain is a privacy and security expert currently serving as an Assistant Professor of Computer Science and Cybersecurity and the director of CiPH3R-Lab at Texas A&M-SA. His research interests include secure and trustworthy cybersecurity and AI/ML applications, adversarial machine learning, federated learning, reinforcement learning, blockchain, and critical infrastructure security"
   location         : "SciTech-Room 211J"
-  employer         : "<a href="https://www.tamusa.edu/">Texas A&M University-San Antonio</a>"
+  employer         : '<a href="https://www.tamusa.edu/">Texas A&M University-San Antonio</a>'
   uri              : 
   email            : "mhossain@tamusa.edu" 
 
