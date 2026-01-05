@@ -24,27 +24,19 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Md Tamjid Hossain, CISSP, PhD"
+  pronouns         : # example: "He/Him/His"  
+  bio              : "Md Tamjid Hossain is a privacy and security expert currently serving as an Assistant Professor (Tenure-track) of Computer Science and Cybersecurity and the director of CiPH3R-Lab at Texas A&M University-San Antonio (A&M-SA). His research interests include secure and trustworthy cybersecurity and AI/ML applications, adversarial machine learning, federated learning, reinforcement learning, blockchain, and critical infrastructure security"
+  location         : "Science and Technology Building, Room 211J"
+  employer         : "Texas A&M University-San Antonio"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "mhossain@tamusa.edu" 
 
   # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  inspire-hep      : # URL
-  impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
-  semantic         : # URL
-  ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
-  zotero           : # URL
+  academia         : # https://apps.tamusa.edu/course-information/my-profile/faculty-Profile.php?ID=1081
+  googlescholar    : "https://scholar.google.com/citations?user=-u4v8QEAAAAJ&hl=en"
+  orcid id         : "https://orcid.org/my-orcid?orcid=0000-0002-5674-7918"
+
 
 
   # Repositories and software development
