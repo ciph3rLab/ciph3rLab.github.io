@@ -16,8 +16,6 @@ main:
     url: /research/
   - title: "Publications"
     url: /publications/
-  - title: "News"
-    url: /year-archive/
   - title: "Contact"
     url: /contact/
 
