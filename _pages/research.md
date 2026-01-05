@@ -43,9 +43,9 @@ CiPH3R-Lab focuses on **secure and trustworthy cybersecurity and AI/ML applicati
 
 ---
 
-## Selected Ongoing / Recent Projects
+## Ongoing Projects
 
-### Zen-AI: Zero-day-aware Neurocognitive Decision Making with Agentic AI (Ongoing)
+### Project-1: *Zen-AI: Zero-day-aware Neurocognitive Decision Making with Agentic AI*
 A trustworthy neurocognitive decision-support framework for multi-agent critical infrastructures:
 - Dual-process architecture (fast heuristic System-I + slow analytic System-II)
 - Goal: authentic, accurate, secure, reliable, timely (AASRT) information exchange and adaptive resilience
@@ -54,7 +54,7 @@ A trustworthy neurocognitive decision-support framework for multi-agent critical
 
 *Figure: Zen-AI Architecture Overview*
 
-### RAG-powered Cyber Red Teaming with Human-in-the-Loop (HiL) (Ongoing)
+### Project-2 *RAG-powered Cyber Red Teaming with Human-in-the-Loop (HiL)*
 RAG-based agentic LLM approach to emulate attacker workflows safely:
 - Leverages MITRE ATT&CK/CAPEC concepts and structured knowledge from CVE/CWE/NVD-style corpora
 - Operates in sandboxed environments with HiL oversight
@@ -64,7 +64,7 @@ RAG-based agentic LLM approach to emulate attacker workflows safely:
 
 *Figure: RAG-powered agentic red teaming pipeline with human-in-the-loop oversight.*
 
-### PRISM: Policy-Regulated Investigative Segmentation for Ethical Digital Forensics (Ongoing)
+### Project-3: *PRISM: Policy-Regulated Investigative Segmentation for Ethical Digital Forensics*
 Ethics-first agentic AI to triage large evidence sets (disks, memory dumps, logs, PCAP, mobile images):
 - Contextualizes case narratives and groups/tags artifacts as case-related vs unrelated
 - Goal: reduce unintentional/unethical data exposure while preserving investigator speed
