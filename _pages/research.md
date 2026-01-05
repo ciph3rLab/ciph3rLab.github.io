@@ -10,10 +10,15 @@ CiPH3R-Lab focuses on **secure and trustworthy cybersecurity and AI/ML applicati
 
 ## Core Research Thrusts
 
-<img src="/images/projects/cpci-security.jpg"
-     alt="Cyber physical critical infrastructure security"
-     caption="Figure: Cyber physical critical infrastructure security"
-     style="max-width:600px; display:block; margin: 1rem auto;">
+<figure style="max-width:600px; margin: 1.5rem auto; text-align:center;">
+  <img src="/images/projects/cpci-security.jpg"
+       alt="Cyber physical critical infrastructure security"
+       style="width:100%;">
+
+  <figcaption style="font-size:0.9em; color:#aaa; margin-top:0.5rem;">
+    <strong>Figure: </strong> Cyber physical critical infrastructure security
+  </figcaption>
+</figure>
 
 
 
