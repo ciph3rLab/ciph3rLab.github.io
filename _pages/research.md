@@ -37,29 +37,21 @@ CiPH3R-Lab focuses on **secure and trustworthy cybersecurity and AI/ML applicati
 A trustworthy neurocognitive decision-support framework for multi-agent critical infrastructures:
 - Dual-process architecture (fast heuristic System-I + slow analytic System-II)
 - Goal: authentic, accurate, secure, reliable, timely (AASRT) information exchange and adaptive resilience
+![Zen-AI architecture overview](/images/projects/zen-ai-architecture.svg)
 
 ### RAG-powered Cyber Red Teaming with Human-in-the-Loop (HiL) (Ongoing)
 RAG-based agentic LLM approach to emulate attacker workflows safely:
 - Leverages MITRE ATT&CK/CAPEC concepts and structured knowledge from CVE/CWE/NVD-style corpora
 - Operates in sandboxed environments with HiL oversight
 - Goal: quantify how agentic AI accelerates adversary workflows and derive defense-in-depth mitigations
+![RAG-powered red teaming workflow](/images/projects/rag-redteam-pipeline.png)
+*Figure: RAG-powered agentic red teaming pipeline with human-in-the-loop oversight.*
 
 ### PRISM: Policy-Regulated Investigative Segmentation for Ethical Digital Forensics (Ongoing)
 Ethics-first agentic AI to triage large evidence sets (disks, memory dumps, logs, PCAP, mobile images):
 - Contextualizes case narratives and groups/tags artifacts as case-related vs unrelated
 - Goal: reduce unintentional/unethical data exposure while preserving investigator speed
-
-### Adversarial AI/ML in Cyber-Physical Critical Infrastructures
-- Experience sharing for multi-agent reinforcement learning (MARL): adaptive neighbor zones, weighted aggregation, and LDP
-- Poisoning attacks and defenses using privacy-level selection in federated learning
-
-### Privacy, Security, and Vulnerability Characterization in Cyber-Physical Energy Systems
-- Backdoor attack vulnerability characterization
-- RL-based privacy level selection strategies for DP mechanisms
-
-### Lightweight Blockchain Framework for SCADA Systems
-- Computationally efficient consensus mechanism suitable for constrained environments
-- Extensible to other domains (vehicular networks, healthcare-style audit needs)
+![PRISM forensic triage flow](/images/projects/prism-forensics-flow.jpg)
 
 ---
 
