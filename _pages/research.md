@@ -14,11 +14,10 @@ CiPH3R-Lab focuses on **secure and trustworthy cybersecurity and AI/ML applicati
 
 *Figure: Cyber physical critical infrastructure security*
 
-{% include figure
-   image_path="/images/projects/zen-ai-architecture.png"
-   alt="Zen-AI architecture overview"
-   caption="Zen-AI dual-process (System-I / System-II) architecture"
-%}
+<img src="/images/projects/zen-ai-architecture.jpg"
+     alt="Zen-AI architecture overview"
+     style="max-width:600px; display:block; margin: 1rem auto;">
+
 
 
 ### 1) Trustworthy AI/ML for Critical Infrastructure Security
