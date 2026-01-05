@@ -55,8 +55,9 @@ Ethics-first agentic AI to triage large evidence sets (disks, memory dumps, logs
 - Contextualizes case narratives and groups/tags artifacts as case-related vs unrelated
 - Goal: reduce unintentional/unethical data exposure while preserving investigator speed
 
-![PRISM forensic triage flow](/images/projects/prism-forensics-flow.jpg)
-*Figure: PRISM forensic triage flow*
+![PRISM forensics triage flow](/images/projects/prism-forensics-flow.jpg)
+*Figure: PRISM forensics triage flow.*
+
 ---
 
 ## Funding & Proposal Activity
