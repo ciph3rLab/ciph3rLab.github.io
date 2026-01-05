@@ -10,7 +10,10 @@ author_profile: false
 
 ## Students
 
-- (Add student names here)
+- **Eduardo Lara Hurtado, CS @ Texas A&M-SA**
+- **Amber Parker, CS @ Texas A&M-SA**
+- **Gavin Ma, CS + DS @ Purdue University**
+- **Widyane Kasbi, CS @ Texas State University**
 
 ## Alumni
 
