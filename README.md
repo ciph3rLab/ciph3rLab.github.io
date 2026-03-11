@@ -2,7 +2,7 @@
 
 This repository hosts the official website for **CiPH3R-Lab (Cybersecurity, Privacy, and Human-centric Research Laboratory)** at Texas A&M University–San Antonio.
 
-Website: https://ciphr3lab.github.io
+Website: https://ciph3rlab.github.io/
 
 ## About CiPH3R-Lab
 
