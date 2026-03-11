@@ -1,7 +1,23 @@
 {% include base_path %}
 
-<div class="page__footer-copyright">
-  &copy; {{ site.time | date: '%Y' }} Md Tamjid Hossain, CISSP, PhD<br />
+<div class="page__footer-copyright" style="text-align:center;">
+  <div id="visitor-count" style="margin-bottom:6px;"></div>
+  &copy; {{ site.time | date: '%Y' }} Md Tamjid Hossain<br />
   Site last updated {{ "now" | date: '%Y-%m-%d' }}
 </div>
 
+<script>
+(function () {
+  var t = setInterval(function () {
+    if (window.goatcounter && window.goatcounter.visit_count) {
+      clearInterval(t);
+      window.goatcounter.visit_count({
+        append: "#visitor-count",
+        path: "TOTAL",
+        no_branding: true,
+        style: "div { border:none; background:none; padding:0; color:inherit; font:inherit; }"
+      });
+    }
+  }, 100);
+})();
+</script>
