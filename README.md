@@ -33,7 +33,7 @@ The website is built using:
 Original template: https://academicpages.github.io
 
 ## Repository Structure
-_pages/ → Website pages
+_pages/ → Website pages </ br>
 _publications/ → Publication entries
 _posts/ → News updates
 _includes/ → Layout components
