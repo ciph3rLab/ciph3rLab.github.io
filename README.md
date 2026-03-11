@@ -8,7 +8,7 @@ Website: https://ciph3rlab.github.io/
 
 CiPH3R-Lab conducts research at the intersection of:
 
-- Cybersecurity and digital forensics
+- Offensive and Defensive Cybersecurity Techniques
 - Privacy-preserving and trustworthy AI
 - Adversarial machine learning and AI red teaming
 - Security of critical and cyber-physical infrastructure
