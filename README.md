@@ -44,8 +44,8 @@ Original template: https://academicpages.github.io
 ## Running Locally
 
 To run the website locally:
-bundle install
-bundle exec jekyll serve
+- bundle install
+- bundle exec jekyll serve
 
 Then open:
 http://localhost:4000
