@@ -46,22 +46,26 @@
 
 .lab-brand {
   display: flex;
+  flex-direction: column;
   align-items: center;
-  padding: 0;
+  justify-content: center;
+  text-decoration: none;
+  line-height: 1;
 }
 
 .lab-logo {
-  height: 48px;
-  width: auto;
+  width: 135px;
+  height: auto;
   display: block;
+  margin-bottom: 3px;
+}
+
+.lab-brand-name {
+  font-size: 0.9rem;
+  font-weight: 700;
+  white-space: nowrap;
 }
 
 .masthead__menu-item--lg.selected .lab-brand {
   border-bottom: none;
-}
-
-@media (max-width: 600px) {
-  .lab-logo {
-    height: 40px;
-  }
 }
