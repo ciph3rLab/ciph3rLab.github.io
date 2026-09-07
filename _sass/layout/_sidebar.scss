@@ -161,7 +161,7 @@
     max-height: none;
     aspect-ratio: 1 / 1;            // keep square in modern browsers
     object-fit: cover;              // crop nicely to fill the circle
-    object-position: center 30%;
+    object-position: center 52%;
     border-radius: 50%;             // make it circular
 
     @include breakpoint($large) {
