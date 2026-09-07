@@ -17,9 +17,11 @@ The lab develops secure and resilient AI systems with strong real-world impact.
 
 ## Director
 
-**Dr. Md Tamjid Hossain, CISSP, PhD**  
-Assistant Professor  
-Department of Computational, Engineering, and Mathematical Sciences  
+**Dr. Md Tamjid Hossain, CISSP, PhD**
+Undergraduate Program Coordinator (Cybersecurity)
+Assistant Professor (Tenure-track)
+Department of Computational, Engineering, and Mathematical Sciences
+College of Arts and Sciences
 Texas A&M University – San Antonio
 
 ## Website Technology
