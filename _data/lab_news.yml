@@ -1,3 +1,27 @@
+ - date: "2026-09-04"
+  text: 'Honored to be appointed as the "Undergraduate Program Coordinator (Cybersecurity)" at A\&M-SA effective from Spring-2027'
+  url: ""  # put your “Find here” link if you have it
+
+  - date: "2026-08-26"
+  text: 'Congratulations to our lab member **Amber Parker** for her next role as **Software Developer at IBM** starting from December 2026'
+  url: ""  # put your “Find here” link if you have it
+  
+ - date: "2026-05-19"
+  text: 'Honored to be recognized as "The Most Influential Mentor" at A\&M-SA this Spring-2026, selected by one of my graduating students Jacqueline Aguilar'
+  url: ""  # put your “Find here” link if you have it
+
+  - date: "2026-05-16"
+  text: 'Paper accepted: “Learning-based Denial-of-Key-Generation (DoKG) Attack Against Quantum Key Distribution,” IEEE IRI 2026 (Seattle, WA, USA; July 31- Aug 02, 2026).'
+  url: ""  # put your “Find here” link if you have it
+
+- date: "2026-05-03"
+  text: 'Paper accepted: “SecureFL-IoV: Differentially Private Federated Intrusion Detection for IoV Using a Two-Stage RF,” IEEE CNS 2026 (Newark, Delaware, USA; Sep 14-17, 2026).'
+  url: ""  # put your “Find here” link if you have it
+
+- date: "2026-05-03"
+  text: 'Paper accepted: “Towards Practical UAV Intelligence: Data-Efficient Fine-Tuning of Small Vision Language Models for Emergency Response,” SmartNets 2026 (Link Campus University, Rome, Italy; Jul 07-09, 2026).'
+  url: ""  # put your “Find here” link if you have it
+
 - date: "2026-04-07"
   text: 'AI/ML Research Showcase: Our research lab delivered a poster presentation on "Privacy-Preserving Computer Forensics with Multi-Agent AI Triage"'
   url: ""  # put your “Find here” link if you have it
