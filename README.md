@@ -22,7 +22,7 @@ Undergraduate Program Coordinator (Cybersecurity)<br />
 Assistant Professor (Tenure-track)<br />
 Department of Computational, Engineering, and Mathematical Sciences<br />
 College of Arts and Sciences<br />
-Texas A&M University – San Antonio<br />
+Texas A&M University – San Antonio, TX 78224, USA<br />
 
 ## Website Technology
 
