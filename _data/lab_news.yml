@@ -1,58 +1,58 @@
- - date: "2026-09-04"
+- date: "2026-09-04"
   text: 'Honored to be appointed as the "Undergraduate Program Coordinator (Cybersecurity)" at A\&M-SA effective from Spring-2027'
-  url: ""  # put your “Find here” link if you have it
+  url: ""  # put your "Find here" link if you have it
 
- - date: "2026-08-26"
+- date: "2026-08-26"
   text: 'Congratulations to our lab member **Amber Parker** for her next role as **Software Developer at IBM** starting from December 2026'
-  url: ""  # put your “Find here” link if you have it
-  
- - date: "2026-05-19"
+  url: ""  # put your "Find here" link if you have it
+
+- date: "2026-05-19"
   text: 'Honored to be recognized as "The Most Influential Mentor" at A\&M-SA this Spring-2026, selected by one of my graduating students Jacqueline Aguilar'
-  url: ""  # put your “Find here” link if you have it
+  url: ""  # put your "Find here" link if you have it
 
- - date: "2026-05-16"
-  text: 'Paper accepted: “Learning-based Denial-of-Key-Generation (DoKG) Attack Against Quantum Key Distribution,” IEEE IRI 2026 (Seattle, WA, USA; July 31- Aug 02, 2026).'
-  url: ""  # put your “Find here” link if you have it
-
-- date: "2026-05-03"
-  text: 'Paper accepted: “SecureFL-IoV: Differentially Private Federated Intrusion Detection for IoV Using a Two-Stage RF,” IEEE CNS 2026 (Newark, Delaware, USA; Sep 14-17, 2026).'
-  url: ""  # put your “Find here” link if you have it
+- date: "2026-05-16"
+  text: 'Paper accepted: "Learning-based Denial-of-Key-Generation (DoKG) Attack Against Quantum Key Distribution," IEEE IRI 2026 (Seattle, WA, USA; July 31- Aug 02, 2026).'
+  url: ""  # put your "Find here" link if you have it
 
 - date: "2026-05-03"
-  text: 'Paper accepted: “Towards Practical UAV Intelligence: Data-Efficient Fine-Tuning of Small Vision Language Models for Emergency Response,” SmartNets 2026 (Link Campus University, Rome, Italy; Jul 07-09, 2026).'
-  url: ""  # put your “Find here” link if you have it
+  text: 'Paper accepted: "SecureFL-IoV: Differentially Private Federated Intrusion Detection for IoV Using a Two-Stage RF," IEEE CNS 2026 (Newark, Delaware, USA; Sep 14-17, 2026).'
+  url: ""  # put your "Find here" link if you have it
+
+- date: "2026-05-03"
+  text: 'Paper accepted: "Towards Practical UAV Intelligence: Data-Efficient Fine-Tuning of Small Vision Language Models for Emergency Response," SmartNets 2026 (Link Campus University, Rome, Italy).'
+  url: ""  # put your "Find here" link if you have it
 
 - date: "2026-04-07"
   text: 'AI/ML Research Showcase: Our research lab delivered a poster presentation on "Privacy-Preserving Computer Forensics with Multi-Agent AI Triage"'
-  url: ""  # put your “Find here” link if you have it
+  url: ""  # put your "Find here" link if you have it
 
 - date: "2026-03-25"
   text: '2026 CAE Symposium Acceptance: Our extended abstract titled "From mass extraction to ethical triage: multi-agent AI for privacy-preserving computer forensics" has been accepted for publication.'
-  url: ""  # put your “Find here” link if you have it
-  
+  url: ""  # put your "Find here" link if you have it
+
 - date: "2026-03-16"
-  text: 'Multi-Institutional Research Initiative Advances: Our collaborative proposal(s) "PromptSafe.ai: A privacy-aware framework for FERPA-compliant, responsible AI use across institutions" and "Structure-First Android Malware Detection using Control-Flow Graphs and Graph Neural Network" have passed the internal round and advanced towards final stage (co-led with Dr. Tarek Mahmud at TAMUK and Dr. Md Hossain Shuvo at PVAMU).'
-  url: ""  # put your “Find here” link if you have it
-  
+  text: 'Multi-Institutional Research Initiative Advances: Our collaborative proposal(s) "PromptSafe.ai: A privacy-aware framework for FERPA-compliant, responsible AI use across institutions" and "Strengthening Cybersecurity Education Through a Consortium of HBCU and Hispanic-Serving Institutions" have been selected for funding.'
+  url: ""  # put your "Find here" link if you have it
+
 - date: "2026-03-06"
-  text: 'Research Funding Awarded: I''m thrilled to announce that our proposal "Connecting the dots: A multi-agent AI framework for cyber threat intelligence (CTI)" has been selected for funding by TAMUSA Research Council.'
-  url: ""  # put your “Find here” link if you have it
-  
+  text: 'Research Funding Awarded: I''m thrilled to announce that our proposal "Connecting the dots: A multi-agent AI framework for cyber threat intelligence (CTI)" has been selected for funding by TAMUS.'
+  url: ""  # put your "Find here" link if you have it
+
 - date: "2025-11-04"
   text: 'Serving as a Mentor in CAHSI Local REU program: I have been selected as a mentor for NSF-supported CAHSI Local REU program.'
-  url: ""  # put your “Find here” link if you have it  
-  
+  url: ""  # put your "Find here" link if you have it
+
 - date: "2025-07-24"
-  text: 'Completed the “Independent Applying the QM Rubric - Virtual (APPQMR): (Statewide Systems)” workshop and received a certificate of completion.'
-  url: ""  # put your “Find here” link if you have it
+  text: 'Completed the "Independent Applying the QM Rubric - Virtual (APPQMR): (Statewide Systems)" workshop and received a certificate of completion.'
+  url: ""  # put your "Find here" link if you have it
 
 - date: "2025-05-28"
-  text: 'Paper accepted: “CRADLE: Cooperative Adaptive Decentralized Learning and Execution for UAV network to monitor Wildfire Front,” IEEE CASE 2025 (Los Angeles, USA; Aug 17–21, 2025).'
+  text: 'Paper accepted: "CRADLE: Cooperative Adaptive Decentralized Learning and Execution for UAV network to monitor Wildfire Front," IEEE CASE 2025 (Los Angeles, USA; Aug 17–21, 2025).'
   url: ""  # add paper link if available
 
 - date: "2025-01-30"
-  text: 'Paper accepted: “Exploiting Gaussian Noise Variance for Dynamic Differential Poisoning in Federated Learning,” IEEE Transactions on Artificial Intelligence (IEEE TAI).'
-  url: ""  # add “Paper Link” if available
+  text: 'Paper accepted: "Exploiting Gaussian Noise Variance for Dynamic Differential Poisoning in Federated Learning," IEEE Transactions on Artificial Intelligence (IEEE TAI).'
+  url: ""  # add "Paper Link" if available
 
 - date: "2024-09-26"
   text: 'Serving as a Technical Program Committee (TPC) member for IEEE CCNC 2025 (Jan 10–13, 2025; Las Vegas, NV, USA).'
@@ -83,7 +83,7 @@
   url: ""
 
 - date: "2023-12-14"
-  text: 'Attended invited talk on “Trustworthy AI/ML in Multi-agent Systems” (CMA Core, University of Nevada, Reno).'
+  text: 'Attended invited talk on "Trustworthy AI/ML in Multi-agent Systems" (CMA Core, University of Nevada, Reno).'
   url: ""  # add presentation link if you have it
 
 - date: "2023-10-04"
@@ -91,7 +91,7 @@
   url: ""  # add attendance certificate link if you have it
 
 - date: "2023-09-15"
-  text: 'Submitted paper “CRADLE: Cooperative Adaptive Decentralized Learning and Execution for UAV Network to monitor Wildfire Front” to ICRA 2024.'
+  text: 'Submitted paper "CRADLE: Cooperative Adaptive Decentralized Learning and Execution for UAV Network to monitor Wildfire Front" to ICRA 2024.'
   url: ""
 
 - date: "2023-08-25"
@@ -107,7 +107,7 @@
   url: ""
 
 - date: "2023-06-23"
-  text: 'Paper accepted: “BRNES: Enabling Security and Privacy-aware Experience Sharing in Multiagent Robotic and Autonomous Systems,” IEEE/RSJ IROS 2023.'
+  text: 'Paper accepted: "BRNES: Enabling Security and Privacy-aware Experience Sharing in Multiagent Robotic and Autonomous Systems," IEEE/RSJ IROS 2023.'
   url: ""  # you can add links to video/paper/poster if you have them
 
 - date: "2023-06-01"
@@ -115,7 +115,7 @@
   url: ""
 
 - date: "2023-05-13"
-  text: 'Paper accepted: “Hiding in Plain Sight: Differential Privacy Noise Exploitation for Evasion-resilient Localized Poisoning Attacks in Multiagent Reinforcement Learning,” ICMLC 2023.'
+  text: 'Paper accepted: "Hiding in Plain Sight: Differential Privacy Noise Exploitation for Evasion-resilient Localized Poisoning Attacks in Multiagent Reinforcement Learning," ICMLC 2023.'
   url: ""
 
 - date: "2022-11-28"
@@ -123,5 +123,5 @@
   url: ""
 
 - date: "2022-11-03"
-  text: 'Paper accepted: “A Resource Allocation Scheme for Energy Demand Management in 6G-enabled Smart Grid,” IEEE ISGT NA 2023 (Washington DC, USA).'
+  text: 'Paper accepted: "A Resource Allocation Scheme for Energy Demand Management in 6G-enabled Smart Grid," IEEE ISGT NA 2023 (Washington DC, USA).'
   url: ""
