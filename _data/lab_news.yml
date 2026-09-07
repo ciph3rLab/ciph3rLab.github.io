@@ -1,41 +1,45 @@
 - date: "2026-09-04"
-  text: 'Honored to be appointed as the "Undergraduate Program Coordinator (Cybersecurity)" at A&M-SA effective from Spring-2027'
+  text: 'Honored to be appointed as the <b>Undergraduate Program Coordinator (Cybersecurity)</b> at A&M-SA effective from Spring-2027'
   url: ""  # put your "Find here" link if you have it
 
 - date: "2026-08-26"
-  text: 'Congratulations to our lab member <b>Amber Parker</b> for her next role as **Software Developer at IBM** starting from December 2026'
+  text: 'Congratulations to our lab member <b>Amber Parker</b> for her next role as <b>Software Developer at IBM</b> starting from December 2026'
+  url: ""  # put your "Find here" link if you have it
+
+- date: "2026-07-17"
+  text: 'Paper accepted: "<i>SecureFL-IoV: Differentially Private Federated Intrusion Detection for IoV Using a Two-Stage RF,</i>" <b>IEEE CNS 2026</b> (Newark, Delaware, USA; Sep 14-17, 2026).'
   url: ""  # put your "Find here" link if you have it
 
 - date: "2026-05-19"
-  text: 'Honored to be recognized as "The Most Influential Mentor" at A&M-SA this Spring-2026, selected by one of my graduating students Jacqueline Aguilar'
+  text: 'Honored to be recognized as <b>The Most Influential Mentor</b> at A&M-SA this Spring-2026, selected by one of my graduating students Jacqueline Aguilar'
   url: ""  # put your "Find here" link if you have it
 
 - date: "2026-05-16"
-  text: 'Paper accepted: "Learning-based Denial-of-Key-Generation (DoKG) Attack Against Quantum Key Distribution," IEEE IRI 2026 (Seattle, WA, USA; July 31- Aug 02, 2026).'
+  text: 'Paper accepted: "<i>Learning-based Denial-of-Key-Generation (DoKG) Attack Against Quantum Key Distribution,</i>" <b>IEEE IRI 2026</b> (Seattle, WA, USA; July 31- Aug 02, 2026).'
   url: ""  # put your "Find here" link if you have it
 
 - date: "2026-05-03"
-  text: 'Paper accepted: "SecureFL-IoV: Differentially Private Federated Intrusion Detection for IoV Using a Two-Stage RF," IEEE CNS 2026 (Newark, Delaware, USA; Sep 14-17, 2026).'
+  text: 'Paper accepted: "<i>VertiSplitRAG: Privacy-Preserving Retrieval-Augmented Generation Through Vertical Attribute Partitioning,</i>" <b>SmartNets 2026</b> (Link Campus University, Rome, Italy).'
   url: ""  # put your "Find here" link if you have it
 
 - date: "2026-05-03"
-  text: 'Paper accepted: "Towards Practical UAV Intelligence: Data-Efficient Fine-Tuning of Small Vision Language Models for Emergency Response," SmartNets 2026 (Link Campus University, Rome, Italy).'
+  text: 'Paper accepted: "<i>Towards Practical UAV Intelligence: Data-Efficient Fine-Tuning of Small Vision Language Models for Emergency Response,</i>" <b>SmartNets 2026</b> (Link Campus University, Rome, Italy).'
   url: ""  # put your "Find here" link if you have it
 
 - date: "2026-04-07"
-  text: 'AI/ML Research Showcase: Our research lab delivered a poster presentation on "Privacy-Preserving Computer Forensics with Multi-Agent AI Triage"'
+  text: 'AI/ML Research Showcase: Our research lab delivered a poster presentation on <b>Privacy-Preserving Computer Forensics with Multi-Agent AI Triage</b>'
   url: ""  # put your "Find here" link if you have it
 
 - date: "2026-03-25"
-  text: '2026 CAE Symposium Acceptance: Our extended abstract titled "From mass extraction to ethical triage: multi-agent AI for privacy-preserving computer forensics" has been accepted for publication.'
+  text: '<b>2026 CAE Symposium Acceptance</b>: Our extended abstract titled "<i>From mass extraction to ethical triage: multi-agent AI for privacy-preserving computer forensics</i>" has been accepted for publication.'
   url: ""  # put your "Find here" link if you have it
 
 - date: "2026-03-16"
-  text: 'Multi-Institutional Research Initiative Advances: Our collaborative proposal(s) "PromptSafe.ai: A privacy-aware framework for FERPA-compliant, responsible AI use across institutions" and "Strengthening Cybersecurity Education Through a Consortium of HBCU and Hispanic-Serving Institutions" have been selected for funding.'
+  text: 'Multi-Institutional Research Initiative Advances: Our collaborative proposal(s) "<i>PromptSafe.ai: A privacy-aware framework for FERPA-compliant, responsible AI use across institutions</i>" and "<i>Strengthening Cybersecurity Education Through a Consortium of HBCU and Hispanic-Serving Institutions</i>" have been selected for initial stage funding.'
   url: ""  # put your "Find here" link if you have it
 
 - date: "2026-03-06"
-  text: 'Research Funding Awarded: I''m thrilled to announce that our proposal "Connecting the dots: A multi-agent AI framework for cyber threat intelligence (CTI)" has been selected for funding by TAMUS.'
+  text: 'Research Funding Awarded: I''m thrilled to announce that our proposal "Connecting the dots: A multi-agent AI framework for cyber threat intelligence (CTI)" has been selected for funding by Texas A&M University-San Antonio''s Office of Research and Sponsored Program (now known as Division of Research and Innovation) .'
   url: ""  # put your "Find here" link if you have it
 
 - date: "2025-11-04"
