@@ -11,8 +11,8 @@ author_profile: false
 ## Students
 
 - **Eduardo Lara Hurtado, CS @ Texas A&M-SA**
-- **Amber Parker, CS @ Texas A&M-SA** (Incoming SDE @IBM)
-- ** Shanjida Azim Shorna, CSE@ Daffodil International University, Bangladesh**
+- **Amber Parker, CS @ Texas A&M-SA** **(Incoming SDE @IBM)**
+- **Shanjida Azim Shorna, CSE@ Daffodil International University, Bangladesh**
 
 ## Alumni
 
