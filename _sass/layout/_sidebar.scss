@@ -143,9 +143,9 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 36px;
-  // set width only, for non-square avatars
-  // height: 36px;
+  // remove the tiny fixed width that was squashing the image on small screens
+  width: auto;
+  // height: unset so image controls sizing
 
   @include breakpoint($large) {
     display: block;
@@ -153,18 +153,22 @@
     height: auto;
   }
 
-img {
-  width: 175px;
-  height: 175px;
-  object-fit: cover;
-  object-position: center 30%;
-  border-radius: 50%;
+  img {
+    display: block;                 // avoid inline spacing issues
+    width: 175px;                   // desired size (keeps it square)
+    height: 175px;                  // force square to avoid ovals
+    max-width: none;                // override any global max-width:100%
+    max-height: none;
+    aspect-ratio: 1 / 1;            // keep square in modern browsers
+    object-fit: cover;              // crop nicely to fill the circle
+    object-position: center 30%;
+    border-radius: 50%;             // make it circular
 
-  @include breakpoint($large) {
-    padding: 5px;
-    border: 1px solid var(--global-border-color);
+    @include breakpoint($large) {
+      padding: 5px;
+      border: 1px solid var(--global-border-color);
+    }
   }
-}
 }
 
 .author__content {
