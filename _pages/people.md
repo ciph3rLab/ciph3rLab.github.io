@@ -11,10 +11,10 @@ author_profile: false
 ## Students
 
 - **Eduardo Lara Hurtado, CS @ Texas A&M-SA**
-- **Amber Parker, CS @ Texas A&M-SA**
-- **Gavin Ma, CS + DS @ Purdue University**
-- **Widyane Kasbi, CS @ Texas State University**
+- **Amber Parker, CS @ Texas A&M-SA** (Incoming SDE @IBM)
+- ** Shanjida Azim Shorna, CSE@ Daffodil International University, Bangladesh**
 
 ## Alumni
 
-- 
+- **Gavin Ma, CS + DS @ Purdue University**
+- **Widyane Kasbi, CS @ Texas State University**
