@@ -17,7 +17,7 @@ The lab develops secure and resilient AI systems with strong real-world impact.
 
 ## Director
 
-**Dr. Md Tamjid Hossain, CISSP, PhD**
+**Dr. Md Tamjid Hossain, CISSP, PhD**<br />
 Undergraduate Program Coordinator (Cybersecurity)<br />
 Assistant Professor (Tenure-track)<br />
 Department of Computational, Engineering, and Mathematical Sciences<br />
