@@ -94,15 +94,6 @@ Ethics-first agentic AI to triage large evidence sets (disks, memory dumps, logs
 
 ---
 
-## Funding & Proposal Activity
-
-- **PRISM: Policy-Regulated Investigative Segmentation for Ethical Cybercrime Forensics** (submitted for Amazon Research Award 2026)  
-- **Jag-AI: AI for All JAGUARS** (Submitted for FIPSE-SP program by U.S. Department of Education; multi-PI team)  
-- **Zen-AI** (In preparation for Texas A&M System Research Excellence Fund (REF))  
-- **Framework-Aware API Misuse Detection in Cross-Platform Mobile Apps** (In preparation for Texas A&M System Research Excellence Fund (REF))  
-- **RAG-powered Cyber Red Teaming with Human-in-the-Loop (HiL)** (In preparation for Secure AI Grant, Foresight Institute)  
-
----
 
 ## Collaborations
 
@@ -110,13 +101,14 @@ We collaborate with researchers and faculty across institutions including:
 - Purdue University Northwest (PNW)
 - University of Nevada, Reno (UNR)
 - Texas A&M University–Kingsville (TAMUK)
+- Prairie View A&M University (PVAMU)
 
 ---
 
 ## Interested in Joining?
 
 We welcome motivated students interested in:
-- Adversarial ML, privacy-preserving learning (DP/LDP), federated learning security
+- Adversarial ML, privacy-preserving learning (Diffential Privacy/Anonymization), federated learning security
 - Cyber-physical and critical infrastructure security
 - Agentic AI for cybersecurity and digital forensics
 
