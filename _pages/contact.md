@@ -29,22 +29,6 @@ San Antonio, TX 78224, USA
 
 ---
 
-## For Prospective Students
-
-We are actively looking for **motivated undergraduate, master’s, and PhD students** with interests in:
-
-- Cybersecurity and digital forensics  
-- Adversarial machine learning and trustworthy AI  
-- Privacy-preserving and federated learning  
-- Cyber-physical and critical infrastructure security  
-
-When emailing, please include:
-- A brief description of your interests  
-- Your CV/resume  
-- Relevant coursework or experience  
-
----
-
 ## Collaborations & Funding
 
 CiPH3R-Lab is open to collaborations with:
